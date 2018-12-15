@@ -63,6 +63,11 @@ const Form = ({
       min='1'
       max='100'
     />
+    {age.touched && (+age.value < 1 || +age.value > 100) ? (
+      <TextError>
+        Age must be larger than 0 or lower than 100
+      </TextError>
+    ) : null}
     <Input
       name='photo'
       type='text'
