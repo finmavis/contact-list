@@ -1,4 +1,4 @@
-# Star Wars Movie
+# Contact List
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Using API from [Simple Contact CRUD API](https://simple-contact-crud.herokuapp.com/documentation).<br>
 To see this project in action, go to [Demo](https://finmavis.github.io/contact-list)
