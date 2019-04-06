@@ -9,8 +9,8 @@ Clone this repo :
 ```git clone https://github.com/finmavis/contact-list.git```
 
 Navigate to the root folder and install all dependencies :
-- [Yarn](https://yarnpkg.com) : `yarn install`
-- [NPM](https://yarnpkg.com) : `npm install`
+- [Yarn](https://yarnpkg.com) : `yarn`
+- [NPM](https://www.npmjs.com) : `npm install`
 
 Start Development Mode :
 - `yarn start` or `npm start`
